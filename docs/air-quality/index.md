@@ -4,11 +4,11 @@
 
 {% include air-quality.html %}
 
-![Forecast](./assets/img/pm25_forecast_tampere.png.png)
-![Forecast](./assets/img/pm25_forecast_kaleva.png.png)
-![Forecast](./assets/img/pm25_forecast_pirkankatu.png.png)
-![Forecast](./assets/img/pm25_forecast_epila-2.png.png)
-![Forecast](./assets/img/pm25_forecast_linja-autoasema.png.png)
+![Forecast](./assets/img/pm25_forecast_tampere.png)
+![Forecast](./assets/img/pm25_forecast_kaleva.png)
+![Forecast](./assets/img/pm25_forecast_pirkankatu.png)
+![Forecast](./assets/img/pm25_forecast_epila-2.png)
+![Forecast](./assets/img/pm25_forecast_linja-autoasema.png)
 
 
 There is also a Python program to interact with the air quality ML system using language (text, voice),
@@ -18,8 +18,8 @@ powered by a [function-calling LLM](https://www.hopsworks.ai/dictionary/function
 
 1-Day Hindcast: Predictions vs Outcomes
 
-![Forecast](./assets/img/pm25_hindcast_tampere.png.png)
-![Forecast](./assets/img/pm25_hindcast_kaleva.png.png)
-![Forecast](./assets/img/pm25_hindcast_pirkankatu.png.png)
-![Forecast](./assets/img/pm25_hindcast_epila-2.png.png)
-![Forecast](./assets/img/pm25_hindcast_linja-autoasema.png.png)
+![Forecast](./assets/img/pm25_hindcast_tampere.png)
+![Forecast](./assets/img/pm25_hindcast_kaleva.png)
+![Forecast](./assets/img/pm25_hindcast_pirkankatu.png)
+![Forecast](./assets/img/pm25_hindcast_epila-2.png)
+![Forecast](./assets/img/pm25_hindcast_linja-autoasema.png)
